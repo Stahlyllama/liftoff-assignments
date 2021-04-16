@@ -1,3 +1,4 @@
+
 # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
@@ -7,8 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[wireframe mvp liftoff project.pdf](https://github.com/Stahlyllama/liftoff-assignments/files/6317068/wireframe.mvp.liftoff.project.pdf)
 
 ### Project Tracker
 
