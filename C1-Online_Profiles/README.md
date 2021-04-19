@@ -14,7 +14,8 @@ https://www.linkedin.com/in/ksd/
 
 
 ### Resume
-[Kim Stahl Resume 2021 - Google Docs.pdf](https://github.com/Stahlyllama/liftoff-assignments/files/6315079/Kim.Stahl.Resume.2021.-.Google.Docs.pdf)
+[Kim Stahl Resume 2021 .pdf](https://github.com/Stahlyllama/liftoff-assignments/files/6334207/Kim.Stahl.Resume.2021.pdf)
+
 
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
